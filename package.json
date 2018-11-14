@@ -1,0 +1,22 @@
+{
+  "name": "file-download-helper",
+  "version": "1.0.0",
+  "description": "File download helper (base64 & blob) methods, using file-saver lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksandr-tkach/file-download-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksandr-tkach/file-download-helper/issues"
+  },
+  "homepage": "https://github.com/oleksandr-tkach/file-download-helper#readme",
+  "dependencies": {
+    "file-saver": "^2.0.0-rc.4"
+  }
+}
